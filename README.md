@@ -7,7 +7,7 @@ Frontend Developer
 Passionate Frontend Developer!
 
 * 🌍  I'm based in Switzerland
-* 🖥️  See my portfolio at [MyPortfolio](http://https://portfolio-website-react-gamma.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-website-react-gamma.vercel.app/)
 * ✉️  You can contact me at [jovanka.karoloska@gmail.com](mailto:jovanka.karoloska@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
